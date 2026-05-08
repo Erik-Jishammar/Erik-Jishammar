@@ -15,7 +15,6 @@ Focus areas include:
 - Agile development
 
 ## What I'm Working On
-- Learning frontend framworks Vue, React and Angular 
 - Building structured backend projects
 - Improving code quality and architecture
 - Preparing for internship (LIA) and junior backend roles
